@@ -1,0 +1,11 @@
+[cmdline]
+0=
+
+[Dir Hist New Right Panel]
+0=/var/www/shop.ru/www
+
+[Dir Hist New Left Panel]
+0=/var/www/shop.ru/www
+1=/var/www/shop.ru/www/app
+2=/var/www/shop.ru/www/app/Http
+3=/var/www/shop.ru/www/app/Http/Controllers
